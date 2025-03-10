@@ -5,7 +5,7 @@
 ### Clone the Repository
 
 ```bash
-[git clone https://github.com/ShekharJU/EV-Shekhar.git]
+[git clone https://github.com/SomnathRoy-JU25/Electric-Vehicle-Population-Dashboard]
 ```
 
 ## Deployment
